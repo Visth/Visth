@@ -7,4 +7,6 @@
 
 - 🙋‍♂️ I’m looking to collaborate on any web project (website or app) that includes technology of React framework or vanilla JS.
 
-- 📫 How to reach me: bereszynski.filip@gmail.com.
+- 📫 How to reach me:
+      ✉️ bereszynski.filip@gmail.com.
+      📞 (+48) 510 240 074
