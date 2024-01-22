@@ -1,4 +1,4 @@
-### Hi there, my name is Filip 👋 (Currently trying to become Junior Frontend Developer)
+### Hi there, my name is Filip 👋 (Currently aspiring to become Junior Frontend Developer)
 
 
  - 🔭 I’m currently working on new web app "FlagApp" (using **React** + **Typescript** + **Bootstrap**).
