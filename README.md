@@ -3,7 +3,7 @@
 
  - 🔭 I’m currently working on new web app "FlagApp" (using **React** + **Typescript** + **Bootstrap**).
 
-- 🌱 I’m currently learning **React** (I'm trying to use it in every project to fully master it.).
+- 🌱 I’m currently learning **Next.js** and **Framer Motion** (I'm trying to use it in every project to fully master it.).
 
 - 🙋‍♂️ I’m looking to collaborate on any web project (website or app) that includes technology of React framework or vanilla JS.
 
