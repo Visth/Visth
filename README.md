@@ -10,3 +10,4 @@
 - 📫 How to reach me:
       ✉️ bereszynski.filip@gmail.com.
       📞 (+48) 510 240 074
+- 📌 My Portfolio: https://www.filipbereszynski.com
