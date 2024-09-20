@@ -1,4 +1,4 @@
-### Hi there, my name is Filip 👋 (Freelancer website developer, currently aspiring to work as Junior Frontend Developer)
+### Hi there, my name is Filip 👋 (Freelancer web developer, currently aspiring to work as Frontend Developer)
 
 
  - 🔭 I’m currently working on new web app "Templars" (using **React** + **Next.js** + **Framer Motion**).
