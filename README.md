@@ -1,7 +1,7 @@
 ### Hi there, my name is Filip 👋 (Freelancer web developer, currently aspiring to work as Frontend Developer)
 
 
- - 🔭 I’m currently working on new web app "Templars" (using **React** + **Next.js** + **Framer Motion**).
+ - 🔭 I’m currently working on new web app "Templars" (using **React** + **Next.js** + **Redux** + **Framer Motion**).
 
 - 🌱 I’m currently focusing on mastering **Next.js** with **Redux** (I'm trying to use it in every project).
 
