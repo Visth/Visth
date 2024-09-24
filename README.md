@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently focusing on mastering **Next.js** with **Redux** (I'm trying to use it in every project).
 
-- 🙋‍♂️ I’m looking to collaborate on any web project (website or app) that includes technology of React framework or Next.js.
+- 🙋‍♂️ I’m looking to collaborate on any web project (website or app) that includes technology of React, Redux, TypeScript or Next.js.
 
 - 📫 How to reach me:
       ✉️ bereszynski.filip@gmail.com.
