@@ -1,11 +1,12 @@
-### Hi there, my name is Filip 👋 (Freelancer web developer, currently aspiring to work as Frontend Developer)
+### Hi there, my name is Filip 👋 Front-End Developer
 
+During my work time in A&D Serwis, my responsibilites were:
 
- - 🔭 I’m currently working on new web app "Templars" (using **React** + **Next.js** + **Redux** + **Framer Motion**).
+- Working with team on upgrading company's CMS system website, using JavaScript, SCSS, Vue, React in Front-End & PHP, Symfony in Back-End
 
-- 🌱 I’m currently focusing on mastering **Next.js** with **Redux** (I'm trying to use it in every project).
+- Developing Front-End in HTML, SCSS, JavaScript, Vue and creating online store for Polindustry - https://polindustry.com
 
-- 🙋‍♂️ I’m looking to collaborate on any web project (website or app) that includes technology of React, Redux, TypeScript or Next.js.
+- Developing company's main page A&D Serwis (both Front-End in Vue, JavaScript, SCSS and Back-End in Symfony)
 
 - 📫 How to reach me:
       ✉️ bereszynski.filip@gmail.com.
